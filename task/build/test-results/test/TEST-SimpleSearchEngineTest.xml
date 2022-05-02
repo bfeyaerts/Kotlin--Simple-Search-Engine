@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleSearchEngineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-02T15:05:41" hostname="LAPTOP-V78T3SEN" time="0.565">
+  <properties/>
+  <testcase name="start" classname="SimpleSearchEngineTest" time="0.565"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 1
+
+Select a matching strategy: ALL, ANY, NONE
+> ANY
+Enter the query:
+> bob gallien@evilcorp.com
+Query: [bob, gallien@evilcorp.com]
+Set1: [], Set2: [9, 10, 20, 26, 43]
+Set1: [9, 10, 20, 26, 43], Set2: [23, 25, 34, 39]
+9 records found:
+Bob Yeh bobyeah@gmail.com
+Shannan Bob stropeshah@gmail.com
+Carlene Bob
+Agripina Bob
+Bob Mans
+Pasquale Gallien gallien@evilcorp.com
+Gerardo Strouth gallien@evilcorp.com
+Angelita Wigington gallien@evilcorp.com
+Demetria Hostetler gallien@evilcorp.com
+
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 2
+
+=== List of records ===
+Kristofer Galley
+Fernando Marbury fernando_marbury@gmail.com
+Kristyn Nix nix-kris@gmail.com
+Regenia Enderle
+Malena Gray
+Colette Mattei
+Wendolyn Mcphillips
+Jim Gray
+Coreen Beckham
+Bob Yeh bobyeah@gmail.com
+Shannan Bob stropeshah@gmail.com
+Yer Fillion
+Margene Resendez marres@gmail.com
+Blossom Ambler
+Teri Ledet teri_ledet@gmail.com
+Dana Baron baron@gmail.com
+Abram Goldsberry
+Yer Leopold
+Stefania Trunzo
+Alexis Leopold
+Carlene Bob
+Oliver Dacruz
+Jonie Richter
+Pasquale Gallien gallien@evilcorp.com
+Verdie Gentle
+Gerardo Strouth gallien@evilcorp.com
+Agripina Bob
+Latricia Niebuhr
+Malena Schommer
+Drema Leopold
+Heide Payeur
+Ranae Digiovanni
+Simona Pereira
+Nick Digiovanni
+Angelita Wigington gallien@evilcorp.com
+Elin Gray
+Dwain Trunzo
+Boris Beiler
+Remi Malek fsociefy@gmail.com
+Demetria Hostetler gallien@evilcorp.com
+Nydia Mcduffie
+Florencio Defibaugh
+Warner Giblin
+Bob Mans
+Shu Gray
+Kaycee Gray
+Victorina Froehlich victory@gmail.com
+Roseanne Gray
+Erica Radford hisam@gmail.com
+Elyse Pauling
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 1
+
+Select a matching strategy: ALL, ANY, NONE
+> NONE
+Enter the query:
+> bob gallien@evilcorp.com
+Query: [bob, gallien@evilcorp.com]
+41 records found:
+Kristofer Galley
+Fernando Marbury fernando_marbury@gmail.com
+Kristyn Nix nix-kris@gmail.com
+Regenia Enderle
+Malena Gray
+Colette Mattei
+Wendolyn Mcphillips
+Jim Gray
+Coreen Beckham
+Yer Fillion
+Margene Resendez marres@gmail.com
+Blossom Ambler
+Teri Ledet teri_ledet@gmail.com
+Dana Baron baron@gmail.com
+Abram Goldsberry
+Yer Leopold
+Stefania Trunzo
+Alexis Leopold
+Oliver Dacruz
+Jonie Richter
+Verdie Gentle
+Latricia Niebuhr
+Malena Schommer
+Drema Leopold
+Heide Payeur
+Ranae Digiovanni
+Simona Pereira
+Nick Digiovanni
+Elin Gray
+Dwain Trunzo
+Boris Beiler
+Remi Malek fsociefy@gmail.com
+Nydia Mcduffie
+Florencio Defibaugh
+Warner Giblin
+Shu Gray
+Kaycee Gray
+Victorina Froehlich victory@gmail.com
+Roseanne Gray
+Erica Radford hisam@gmail.com
+Elyse Pauling
+
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 0
+
+Bye!
+?[1;31m
+Start test 2?[0m
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 2
+
+=== List of records ===
+Kristofer Galley
+Fernando Marbury fernando_marbury@gmail.com
+Kristyn Nix nix-kris@gmail.com
+Regenia Enderle
+Malena Gray
+Colette Mattei
+Wendolyn Mcphillips
+Jim Gray
+Coreen Beckham
+Bob Yeh bobyeah@gmail.com
+Shannan Bob stropeshah@gmail.com
+Yer Fillion
+Margene Resendez marres@gmail.com
+Blossom Ambler
+Teri Ledet teri_ledet@gmail.com
+Dana Baron baron@gmail.com
+Abram Goldsberry
+Yer Leopold
+Stefania Trunzo
+Alexis Leopold
+Carlene Bob
+Oliver Dacruz
+Jonie Richter
+Pasquale Gallien gallien@evilcorp.com
+Verdie Gentle
+Gerardo Strouth gallien@evilcorp.com
+Agripina Bob
+Latricia Niebuhr
+Malena Schommer
+Drema Leopold
+Heide Payeur
+Ranae Digiovanni
+Simona Pereira
+Nick Digiovanni
+Angelita Wigington gallien@evilcorp.com
+Elin Gray
+Dwain Trunzo
+Boris Beiler
+Remi Malek fsociefy@gmail.com
+Demetria Hostetler gallien@evilcorp.com
+Nydia Mcduffie
+Florencio Defibaugh
+Warner Giblin
+Bob Mans
+Shu Gray
+Kaycee Gray
+Victorina Froehlich victory@gmail.com
+Roseanne Gray
+Erica Radford hisam@gmail.com
+Elyse Pauling
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 1
+
+Select a matching strategy: ALL, ANY, NONE
+> ALL
+Enter the query:
+> this text never gonna be matched
+Query: [this, text, never, gonna, be, matched]
+No matching records found.
+
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 2
+
+=== List of records ===
+Kristofer Galley
+Fernando Marbury fernando_marbury@gmail.com
+Kristyn Nix nix-kris@gmail.com
+Regenia Enderle
+Malena Gray
+Colette Mattei
+Wendolyn Mcphillips
+Jim Gray
+Coreen Beckham
+Bob Yeh bobyeah@gmail.com
+Shannan Bob stropeshah@gmail.com
+Yer Fillion
+Margene Resendez marres@gmail.com
+Blossom Ambler
+Teri Ledet teri_ledet@gmail.com
+Dana Baron baron@gmail.com
+Abram Goldsberry
+Yer Leopold
+Stefania Trunzo
+Alexis Leopold
+Carlene Bob
+Oliver Dacruz
+Jonie Richter
+Pasquale Gallien gallien@evilcorp.com
+Verdie Gentle
+Gerardo Strouth gallien@evilcorp.com
+Agripina Bob
+Latricia Niebuhr
+Malena Schommer
+Drema Leopold
+Heide Payeur
+Ranae Digiovanni
+Simona Pereira
+Nick Digiovanni
+Angelita Wigington gallien@evilcorp.com
+Elin Gray
+Dwain Trunzo
+Boris Beiler
+Remi Malek fsociefy@gmail.com
+Demetria Hostetler gallien@evilcorp.com
+Nydia Mcduffie
+Florencio Defibaugh
+Warner Giblin
+Bob Mans
+Shu Gray
+Kaycee Gray
+Victorina Froehlich victory@gmail.com
+Roseanne Gray
+Erica Radford hisam@gmail.com
+Elyse Pauling
+
+=== Menu ===
+1. Find a record
+2. Print all records
+0. Exit
+> 0
+
+Bye!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
